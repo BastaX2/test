@@ -1,0 +1,18 @@
+#header0,
+#topHorMenu,
+#footer0,
+#scrollNavArrow { display: none !important; }
+#content0 { padding: 0 !important; }
+
+/* === Travel specific styles === */
+.travel-coffer-header,
+.offer-control-buttons,
+.travel-doffer-operator-corner,
+.travel-doffer-details-top,
+.travel-doffer-details-bottom,
+.travel-doffer-details-ribbon-left,
+.travel-doffer-details-ribbon-right { display: none; }
+.travel-doffer-wrp { -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; }
+.fullstar { margin: 0 0 0 2px; width: 12px; height: 11px; display: inline-block; background-image: url(../img/main_sprite_v4.png); background-position: -115px -76px; }
+
+.travel-doffer-map { -webkit-print-color-adjust:exact; }
